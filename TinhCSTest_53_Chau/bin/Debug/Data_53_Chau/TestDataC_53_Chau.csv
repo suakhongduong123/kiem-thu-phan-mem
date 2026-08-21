@@ -1,9 +1,0 @@
-﻿Hinh,a_53_Chau,b_53_Chau,c_53_Chau,h_53_Chau,expected_53_Chau
-Hinh Chu Nhat,4,5,0,0,18
-Hinh Vuong,5,0,0,0,20
-Hinh Thang,2,4,6,7,19
-Hinh Tam Giac,3,4,5,0,12
-Hinh Chu Nhat,0,7,0,0,Exception
-Hinh Vuong,a,0,0,0,Exception
-Hinh Thang,2,4,6,-1,Exception
-Hinh Tam Giac,3,1,2,0,Exception
