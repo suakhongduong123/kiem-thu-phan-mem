@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BTL_UnitTest_53_Chau.csproj" Id="7a7673bc-56ca-40c5-88a9-221aa8f849ec" />
+  <Project Path="Selenium_WebDriver_53_Chau/Selenium_WebDriver_53_Chau.csproj" Id="5b485d16-3b5b-4950-b15c-c95569b6a13a" />
+  <Project Path="TinhCSTest_53_Chau/TinhCSTest_53_Chau.csproj" Id="ce3dbc05-c3a9-422c-813b-963d664f44de" />
+</Solution>
